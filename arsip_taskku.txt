@@ -1,0 +1,20 @@
+========== ARSIP TASKKU ==========
+
+Tugas Ke     : 1
+Nama Tugas   : Aljabar Linear
+Mata Kuliah  : Aljabar Linear
+Deadline     : 06:00
+Status       : AKTIF
+--------------------------------
+Tugas Ke     : 2
+Nama Tugas   : Bahasa Indonesia
+Mata Kuliah  : Bahasa Indonesia
+Deadline     : 09:00
+Status       : AKTIF
+--------------------------------
+Tugas Ke     : 3
+Nama Tugas   : Project Alpro 
+Mata Kuliah  : Alpro
+Deadline     : 13:00
+Status       : AKTIF
+--------------------------------
